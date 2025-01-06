@@ -24,8 +24,8 @@ This project offers a machine-learning model that create classification on loan 
 
 1. Clone the repository:
    ```shell
-   git clone Loan_Pridiction
-   cd Loan Predication
+   git clone [Loan_Pridiction](https://github.com/RAOMMA/Loan_Pridiction)
+   cd Loan_Pridiction
 Create a virtual environment (recommended) and install the required dependencies:
 python -m venv venv
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
